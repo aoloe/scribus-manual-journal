@@ -55,13 +55,13 @@ There are multiple ways you can contribute to this document:
   - [ ] A dedicated dialog for inputting tables to be rendered with LaTeX.
   - [ ] Mathematic formulas
 
-        - [ ] Improve the mathematic formulas editor in the Render Frames
+        - Improve the mathematic formulas editor in the Render Frames
         - Page started
 
   - [ ] Take XML created from Word as input.
   - [ ] Bibliography / Citations
 
-        - [ ] Would it be possible to automatically link citations in the text to their corresponding entries in the bibliography?
+        - Would it be possible to automatically link citations in the text to their corresponding entries in the bibliography?
 
   - [x] If I import a table or equation in EPS format, would it be selectable in Scribus?
 
